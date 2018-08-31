@@ -1,0 +1,28 @@
+<application>
+  <component name="libraryTable">
+    <library name="bootstrap.min.css" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/Desktop/bootstrap.min.css" />
+          <item url="file://$USER_HOME$/Desktop/bootstrap.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Desktop/bootstrap.min.css" />
+        <root url="file://$USER_HOME$/Desktop/bootstrap.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="bootstrap.min.js" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/Desktop/bootstrap.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Desktop/bootstrap.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
