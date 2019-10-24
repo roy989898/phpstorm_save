@@ -4,7 +4,7 @@
     <property name="created">2019-10-24T15:35:14</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.2.0.0</property>
-    <property name="modified">2019-10-24T16:28:15</property>
+    <property name="modified">2019-10-24T17:05:45</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -2579,7 +2579,7 @@
     </option>
     <option name="PHP_DOC_TAG">
       <value>
-        <option name="FOREGROUND" value="a23dbc" />
+        <option name="FOREGROUND" value="68bcae" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
