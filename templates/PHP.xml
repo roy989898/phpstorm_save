@@ -1,0 +1,12 @@
+<templateSet group="PHP">
+  <template name="sra" value="/**&#10;     * @Route(&#10;     *     &quot;/articles/{_locale}/{year}/{slug}/{category}&quot;,&#10;     *     defaults={&quot;category&quot;:&quot;computers&quot;},&#10;     *     requirements={&#10;     *     &quot;_locale&quot;:&quot;en|fr&quot;,&#10;     *     &quot;category&quot;:&quot;computers|rtv&quot;,&#10;     *     &quot;year&quot;:&quot;\d+&quot;&#10;     * }" description="Add Symfony tag" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="var" value="          /**&#10;         * @var User[] $users&#10;         * */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
