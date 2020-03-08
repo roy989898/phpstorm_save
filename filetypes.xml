@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="always_use_command" type="PLAIN_TEXT" />
+      <mapping ext="bzl" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
